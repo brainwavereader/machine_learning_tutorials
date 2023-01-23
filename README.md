@@ -1,5 +1,5 @@
 # machine_learning_tutorials
-A collection of interactive notebooks demostrating fundamental machine learning principles.
+A collection of interactive notebooks of machine learning demos.
 
 This repository is a collection of jupyter notebooks. Each notebook demonstrates a few fundamental principles of machine learning. 
 
